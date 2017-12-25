@@ -1,6 +1,4 @@
-又学习了一波git
-美滋滋
-分支管理
+Git remote branch
 	git checkout -b <name>  //创建并且换
 	git branch //查看当前分支
 	git merge <name> //合并分支
