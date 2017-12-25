@@ -5,3 +5,4 @@ Git remote branch
 	git branch -d <name> //É¾³ý·ÖÖ§
 	
 	1
+	2
