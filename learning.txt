@@ -5,12 +5,11 @@ Git remote branch
 	git branch -d <name> //删除分支
 	
 <<<<<<< Updated upstream
-	1
+	
 =======
 	
 	git log --pretty=oneline --abbrev-commit 简化历史操作记录
-	1
-	3
+	
 	查看远程库信息，使用git remote -v；
 
 本地新建的分支如果不推送到远程，对其他人就是不可见的；
